@@ -1,0 +1,18 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+,,,,,
+TestPoint,Testpoint,"+3V3, +5V, Clock, Data, GND, Strobe, TP, Tx",HDR1,TestPoint,9
+Cap_1u_16V_0805,Capacitor,"C1, C2, C3, C4",0805 C,Cap_1u_16V_0805,4
+Cap_100N_50V_0805,Capacitor,"C5, C6, C7",0805 C,Cap_100N_50V_0805,3
+LED Green 0805,Typical INFRARED GaAs LED,"D1, D2",0805_G_LED,LED_Green_0805,2
+SMT32G070,STM32G070KBT6 LQFP32,IC1,LQFP-32_M,STM32G070KBT6,1
+Molex 85050-0000,Molex 85050-0000,J1,MOLEX 85050-0000,Molex 85050-0000,1
+6-pin 2.54mm header,"Header, 6-Pin",P1,Molex Picoblade 6way,Header 6,1
+Conn_Phoenix_1869295,Connector 10pin 5.08mm Phoenix 1869295,"P2, P3, P4, P5",CONN X10 PHOENIX 1869295,Conn_Phoenix_1869295,4
+Conn_Phoenix_1869211,Connector 2pin 5.08mm Phoenix 1869211,"P6, P7",CONN X2 PHOENIX 1869211,Conn_Phoenix_1869211,2
+Res_330R_0805,Resistor,"R1, R2, R3, R4, R11",0805 R,Res_330R_0805,5
+Res_0Ohm_0805,Resistor,"R5, R10",0805 R,Res_0Ohm_0805,2
+Res_10K0_0805,Resistor,"R6, R7, R8, R9",0805 R,Res_10K0_0805,4
+Res_330R_Pack8,Isolated Resistor Network,"R12, R13, R14, R15, R16, R17",QSOP-QR16_M,Res_330R_Pack8,6
+Res_2m_2512,Resistor,"R18, R19, R20, R21, R22, R23, R24, R25",2512 R,Res_2m0_2512,8
+3.3V LDO,"Single Output Fast Transient Response LDO, 200 mA, Fixed 3.3 V Output, 1.7 to 5.5 V Input, with Reverse Current Protection, 5-pin SOT-23 (DBV), -40 to 85 degC, Green (RoHS & no Sb/Br)",U1,SOT-23-CT5_M,TPS73233DBVR,1
+TLP3558A,4-Pin Phototransistor Optocoupler,"U2, U3, U4, U5, U6, U7, U8, U9, U10, U11, U12, U13, U14, U15, U16, U17, U18, U19, U20, U21, U22, U23, U24, U25, U26, U27, U28, U29, U30, U31, U32, U33, U34, U35, U36, U37, U38, U39, U40, U41, U42, U43, U44, U45",DIP4 - HV,TLP3558A,44
